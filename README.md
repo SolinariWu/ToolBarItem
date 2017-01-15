@@ -1,5 +1,5 @@
 # ToolBarItem
-**Description**:ToolBar change Title and Item When ViewPager Slide.
+**Description**:ToolBar change Title and MenuItem When ViewPager Slide.
 
 ![image] (https://github.com/SolinariWu/ToolBarItem/blob/master/ToolBarItem.gif)
 
